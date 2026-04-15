@@ -140,7 +140,7 @@ class PixelMorphConverter(TkinterDnD.Tk):
         # Copyright label
         self.copyright_label = ctk.CTkLabel(
             self.footer_frame,
-            text="© 2025 | Jindřich Stoklasa | Download my other programs:",
+            text="© 2026 | neikiri | Download my other programs:",
             font=("Arial", 15)
         )
         self.copyright_label.pack(side="left")
